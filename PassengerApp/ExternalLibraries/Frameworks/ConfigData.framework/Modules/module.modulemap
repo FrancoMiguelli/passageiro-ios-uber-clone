@@ -1,0 +1,6 @@
+framework module ConfigData {
+  umbrella header "ConfigData.h"
+
+  export *
+  module * { export * }
+}

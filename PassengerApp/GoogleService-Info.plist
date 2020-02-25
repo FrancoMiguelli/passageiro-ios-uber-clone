@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>984462917780-umc8etmebg1kudqhtc8lvpctkhnjo3p1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.984462917780-umc8etmebg1kudqhtc8lvpctkhnjo3p1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>984462917780-gh906hgd8g92t593kl1ij9ss89o0qh39.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC7ZG2lksgNaMQ0_MsUiI6SEvIde0VLUFs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>984462917780</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ubbom.passenger</string>
+	<key>PROJECT_ID</key>
+	<string>m-ubbomapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>m-ubbomapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:984462917780:ios:84d4021b36fec319e3f481</string>
+	<key>DATABASE_URL</key>
+	<string>https://m-ubbomapp.firebaseio.com</string>
+</dict>
+</plist>

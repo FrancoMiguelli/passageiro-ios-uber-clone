@@ -1,0 +1,6 @@
+framework module MDProgress {
+  umbrella header "MDProgress.h"
+
+  export *
+  module * { export * }
+}

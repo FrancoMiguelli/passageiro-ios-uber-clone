@@ -1,0 +1,351 @@
+<key></key><string></string>
+<key>LBL_ABOUT_US_HEADER_TXT</key><string>Sobre nós</string>
+<key>LBL_ABOUT_US_TXT</key><string>Sobre nós</string>
+<key>LBL_ACCEPT_FEMALE_REQ_ONLY</key><string>Aceitar pedido de viagem apenas para mulheres</string>
+<key>LBL_ACCEPT_TXT</key><string>ACEITAR</string>
+<key>LBL_ACCOUNT_NUMBER</key><string>Número da conta</string>
+<key>LBL_ACCOUNT_VERIFY_TXT</key><string>Verificação de conta</string>
+<key>LBL_ADDITONAL_CHARGE_HINT</key><string>Deseja adicionar cobranças e descontos adicionais?</string>
+<key>LBL_ADDRESS2_SIGNUP</key><string>Bairro</string>
+<key>LBL_ADDRESS_SIGNUP</key><string>Endereço</string>
+<key>LBL_ADD_CARD</key><string>Adicionar cartão</string>
+<key>LBL_ADD_COMMENT_TXT</key><string>Adicionar comentário</string>
+<key>LBL_ADD_CONTACTS</key><string>Adicionar contatos</string>
+<key>LBL_ADD_CORRECT_DETAIL_TXT</key><string>Por favor, adicione os detalhes corretos.</string>
+<key>LBL_ADD_DESTINATION_BTN_TXT</key><string>PARA ONDE VAMOS?</string>
+<key>LBL_ADD_EMERGENCY_UP_TO_COUNT</key><string>Você pode adicionar até 5 contatos</string>
+<key>LBL_ADD_MONEY_TXT</key><string>Adicionar dinheiro</string>
+<key>LBL_ADD_MONEY_TXT1</key><string>É seguro</string>
+<key>LBL_ADD_SUBJECT_HINT_CONTACT_TXT</key><string>Digite o assunto aqui</string>
+<key>LBL_ADD_VEHICLE</key><string>Adicionar veículo</string>
+<key>LBL_ADD_VEHICLES</key><string>ADICIONAR NOVO</string>
+<key>LBL_ADD_VEHICLE_AND_DOC</key><string>Adicionar veículos com documento</string>
+<key>LBL_ADD_VEHICLE_AND_DOC_NOTE</key><string>Por favor, adicione seus veículos e seu documento. Depois disso, vamos verificar o seu registro.</string>
+<key>LBL_ADD_VEHICLE_PAGE_GENERAL_NOTE</key><string>Adicione seu veículo se você quiser realizar corridas/ entrega. Por favor, adicione o seu veículo para continuar o processo de verificação da sua conta.</string>
+<key>LBL_ALL</key><string>Todos</string>
+<key>LBL_ALLOW_ALL_TXT</key><string>Permitir todos</string>
+<key>LBL_ALLOW_PERMISSIONS_APP</key><string>Aplicação requer alguma permissão para ser concedido ao trabalho. Por favor permita.</string>
+<key>LBL_ALREADY_HAVE_ACC</key><string>já tem uma conta?</string>
+<key>LBL_ALREADY_REGISTERED_CPF</key><string>O CPF informado já foi cadastrado.</string>
+<key>LBL_ARRIVED_CONFIRM_DIALOG_TXT</key><string>Tem certeza de que chegou ao local de coleta do passageiro?</string>
+<key>LBL_ARRIVED_DIALOG_BTN_CONTINUE_TXT</key><string>CONTINUAR</string>
+<key>LBL_AT_TXT</key><string>a</string>
+<key>LBL_AVAILABLE_FOR_RENTAL</key><string>Disponível para locação?</string>
+<key>LBL_AVG_RATING</key><string>Média Avaliação</string>
+<key>LBL_AWAY_TXT</key><string>longe</string>
+<key>LBL_BACK</key><string>De volta</string>
+<key>LBL_BANK_DETAILS_TXT</key><string>Detalhes bancários</string>
+<key>LBL_BANK_LOCATION</key><string>Agência bancária</string>
+<key>LBL_BANK_NAME</key><string>Nome do banco</string>
+<key>LBL_BIC_SWIFT_CODE</key><string>Código do banco</string>
+<key>LBL_BTN_ARRIVED_TXT</key><string>CHEGOU</string>
+<key>LBL_BTN_CANCEL_TRIP_TXT</key><string>Cancelar</string>
+<key>LBL_BTN_NO_TXT</key><string>Não</string>
+<key>LBL_BTN_OK_TXT</key><string>Está bem</string>
+<key>LBL_BTN_PROFILE_UPDATE_PAGE_TXT</key><string>Atualizar informação</string>
+<key>LBL_BTN_REGISTER_TXT</key><string>REGISTRAR</string>
+<key>LBL_BTN_SLIDE_BEGIN_TRIP_TXT</key><string>DESLIZE PARA INICIAR CORRIDA</string>
+<key>LBL_BTN_SLIDE_END_TRIP_TXT</key><string>DESLIZE PARA FINALIZAR CORRIDA</string>
+<key>LBL_BTN_SUBMIT_TXT</key><string>Enviar</string>
+<key>LBL_BTN_TRIP_CANCEL_CONFIRM_TXT</key><string>confirme</string>
+<key>LBL_BTN_YES_TXT</key><string>sim</string>
+<key>LBL_CALL_ACTIVE_TRIP</key><string>Ligar</string>
+<key>LBL_CALL_POLICE</key><string>Ligue para a sala de controle da polícia</string>
+<key>LBL_CALL_TXT</key><string>Ligar</string>
+<key>LBL_CANCEL_TRIP</key><string>Cancelar viagem</string>
+<key>LBL_CANCEL_TXT</key><string>Cancelar</string>
+<key>LBL_CAPACITY</key><string>Capacidade</string>
+<key>LBL_CARD</key><string>CARTÃO APP</string>
+<key>LBL_CARD_CUSTOMER_NOT_ASSOCIATED</key><string>Transação negada. O cliente não possui cartão de crédito válido ativo.</string>
+<key>LBL_CARD_INFO_SECURE_NOTE</key><string>As informações do seu cartão são protegidas com o nosso gateway de pagamento. Todas as transações são realizadas sob a segurança padrão e todas as transações realizadas são confidenciais. Suas informações não serão compartilhadas com terceiros.</string>
+<key>LBL_CARD_NUMBER_HEADER_TXT</key><string>NÚMERO DO CARTÃO</string>
+<key>LBL_CARD_NUMBER_HINT_TXT</key><string>Digite o número do seu cartão</string>
+<key>LBL_CARD_PAYMENT</key><string>Pagamento via cartão</string>
+<key>LBL_CARD_PAYMENT_DETAILS</key><string>Detalhes do cartão</string>
+<key>LBL_CAR_REQUEST_CANCELLED_TXT</key><string>O pedido foi cancelado pelo passageiro.</string>
+<key>LBL_CASH_PAYMENT_TXT</key><string>Pagamento em dinheiro</string>
+<key>LBL_CASH_TXT</key><string>DINHEIRO</string>
+<key>LBL_CHANGE</key><string>Selecione</string>
+<key>LBL_CHANGE_CARD</key><string>Alterar cartão</string>
+<key>LBL_CHANGE_PASSWORD_TXT</key><string>Mudar senha</string>
+<key>LBL_CHARGES_TXT</key><string>COBRANÇAS</string>
+<key>LBL_CHECK_ACC_STATUS</key><string>VERIFICAR STATUS DA CONTA</string>
+<key>LBL_CHOOSE_CATEGORY</key><string>Escolher categoria</string>
+<key>LBL_CHOOSE_OPTION</key><string>Escolha a opção</string>
+<key>LBL_CITY_TXT</key><string>Cidade</string>
+<key>LBL_COLLECT_MONEY_FRM_RIDER</key><string>Por favor, receber dinheiro do passageiro</string>
+<key>LBL_COLLECT_PAYMENT</key><string>RECOLHER PAGAMENTO</string>
+<key>LBL_COLOR_TXT</key><string>Cor</string>
+<key>LBL_COMMENT_TXT</key><string>COMENTE</string>
+<key>LBL_CONFIRM_EME_PAGE_TITLE</key><string>USO EM CASO DE EMERGÊNCIA</string>
+<key>LBL_CONFIRM_MSG_DELETE_EME_CONTACT</key><string>Tem certeza de que deseja excluir este contato de emergência?</string>
+<key>LBL_CONFIRM_START_TRIP_TXT</key><string>Tem certeza de que quer começar a viagem?</string>
+<key>LBL_CONTACT_US_HEADER_TXT</key><string>Contate-Nos</string>
+<key>LBL_CONTACT_US_TXT</key><string>Contate-Nos</string>
+<key>LBL_CONTACT_US_WRITE_EMAIL_TXT</key><string>Escreva sua consulta aqui.</string>
+<key>LBL_COUNTRY_TXT</key><string>País</string>
+<key>LBL_CREDIT_CARD_ERROR</key><string>Cartão de crédito inválido ou expirado. Verifique as informações digitadas e tente novamente.</string>
+<key>LBL_CURRENCY_TXT</key><string>Moeda</string>
+<key>LBL_CURR_PASS_HEADER</key><string>senha atual</string>
+<key>LBL_DECLINE_TXT</key><string>CANCELAR</string>
+<key>LBL_DEDUCTED_RIDER_CARD</key><string>O dinheiro será deduzido do cartão do piloto.</string>
+<key>LBL_DELETE_CAR_SURE</key><string>Você deseja excluir este veículo?</string>
+<key>LBL_DELETE_VEHICLE</key><string>Veículo excluído com sucesso.</string>
+<key>LBL_DEMO_CARD_DESC</key><string>Já que esta é a versão demo, por favor, use abaixo o cartão de crédito / débito fictício para testes. O pagamento real não será deduzido.</string>
+<key>LBL_DEST_ADD_TXT</key><string>Endereço de Destino</string>
+<key>LBL_DEST_LOCATION</key><string>Localização do destino</string>
+<key>LBL_DETAILS</key><string>Detalhes</string>
+<key>LBL_DIS_APPLIED</key><string>desconto aplicado</string>
+<key>LBL_DIVER</key><string>Motorista</string>
+<key>LBL_DONE</key><string>Feito</string>
+<key>LBL_DONT_HAVE_AN_ACCOUNT</key><string>Não tem uma conta?</string>
+<key>LBL_DRIVER_LICENCE</key><string>Carteira de motorista</string>
+<key>LBL_DRIVER_NOT_ACCEPT_TRIP</key><string>Você não pode aceitar este pedido.</string>
+<key>LBL_DRIVER_STATUS_COMPLETE</key><string>Sua conta foi ativada com sucesso</string>
+<key>LBL_DRIVER_STATUS_INCOMPLETE</key><string>Por favor, aguarde a aprovação do administrador se você tiver concluído todas as etapas necessárias.</string>
+<key>LBL_DROP_AT</key><string>Seu destino</string>
+<key>LBL_EDIT</key><string>Editar</string>
+<key>LBL_EDIT_MOBILE</key><string>Editar número</string>
+<key>LBL_EDIT_PROFILE_BLOCK_DRIVER</key><string>Você não pode editar seu perfil enquanto estiver on-line para receber as solicitações. Por favor, desligue-se e tente novamente.</string>
+<key>LBL_EDIT_PROFILE_TXT</key><string>Editar Perfil</string>
+<key>LBL_EDIT_WORK_LOCATION</key><string>Editar sua área de local de trabalho</string>
+<key>LBL_EMAIL_LBL_TXT</key><string>O email</string>
+<key>LBL_EMERGENCY_CONTACT</key><string>Contato de emergência</string>
+<key>LBL_EMERGENCY_CONTACT_SUB_TITLE</key><string>Enviar alerta para seus amigos / familiares em caso de emergência. Por favor, adicione-os aos seus contatos de emergência.</string>
+<key>LBL_EMERGENCY_CONTACT_SUB_TITLE1</key><string>Enviar alerta para seus amigos / familiares em caso de emergência.</string>
+<key>LBL_EMERGENCY_CONTACT_SUB_TITLE2</key><string>Por favor, adicione-os aos seus contatos de emergência.</string>
+<key>LBL_EMERGENCY_CONTACT_TITLE</key><string>Faça sua viagem segura</string>
+<key>LBL_EMERGENCY_SOS_TXT</key><string>SOS</string>
+<key>LBL_EME_CONTACT_LIST_UPDATE</key><string>Seus contatos de emergência foram atualizados.</string>
+<key>LBL_ENABLE_DRWA_OVER_APP</key><string>Por favor, habilite o sorteio sobre a permissão do aplicativo.</string>
+<key>LBL_ENTER_MSG_TXT</key><string>Digite uma mensagem</string>
+<key>LBL_ENTER_PICK_UP_ADDRESS</key><string>ENTRE O ENDEREÇO ​​DA FONTE</string>
+<key>LBL_ENTER_REASON</key><string>Digite seu motivo</string>
+<key>LBL_EN_ROUTE_TXT</key><string>A CAMINHO</string>
+<key>LBL_ERROR_NO_SPACE_IN_PASS</key><string>A senha não deve conter espaços em branco.</string>
+<key>LBL_ERROR_PASS_LENGTH_PREFIX</key><string>Senha deve ser</string>
+<key>LBL_ERROR_PASS_LENGTH_SUFFIX</key><string>ou mais personagem longo.</string>
+<key>LBL_EXIT_APP_TITLE_TXT</key><string>Sair do aplicativo</string>
+<key>LBL_EXPIRED_TXT</key><string>Expirado</string>
+<key>LBL_EXPIRY_DATE</key><string>Data de validade</string>
+<key>LBL_EXP_DATE_REQUIRED</key><string>A data de validade é obrigatória.</string>
+<key>LBL_FAQ_TXT</key><string>Perguntas frequentes</string>
+<key>LBL_FARE_BREAKDOWN_TXT</key><string>Repartição de tarifas</string>
+<key>LBL_FARE_TXT</key><string>Tarifa</string>
+<key>LBL_FEILD_EMAIL_ERROR_TXT</key><string>E-mail incorreto</string>
+<key>LBL_FEILD_REQUIRD_ERROR_TXT</key><string>REQUERIDOS</string>
+<key>LBL_FEMALE_TXT</key><string>Fêmea</string>
+<key>LBL_FINISHED_TRIP_TXT</key><string>Esta viagem foi concluída com sucesso.</string>
+<key>LBL_FIRST_NAME_HEADER_TXT</key><string>Primeiro nome</string>
+<key>LBL_FORGET_PASS_NOTE</key><string>Precisamos apenas do seu ID de e-mail registrado para enviar a você a instrução de redefinição de senha.</string>
+<key>LBL_FORGET_PASS_TXT</key><string>Esqueceu a senha?</string>
+<key>LBL_From</key><string>De</string>
+<key>LBL_GATEWAY_COMMUNICATION_ERROR</key><string>Um erro genérico ocorreu no nosso gateway de pagamento. Por favor, tente novamente mais tarde.</string>
+<key>LBL_GENERAL_NOTE_FARE_EST</key><string>Esta tarifa é baseada em nossa estimativa. Isso pode variar durante a viagem e a tarifa final.</string>
+<key>LBL_GIVE_TIP_TXT</key><string>Sugira agora</string>
+<key>LBL_GO_OFFLINE_TXT</key><string>ONLINE</string>
+<key>LBL_GO_ONLINE_TXT</key><string>OFFLINE</string>
+<key>LBL_HAIL</key><string>Saudar</string>
+<key>LBL_HANDICAP_QUESTION</key><string>Handicap acessibilidade disponível?</string>
+<key>LBL_HAVE_MACHINE</key><string>TEM MAQUINA DE CARTÃO?</string>
+<key>LBL_HEADER_TOPBAR_SIGN_IN_TXT</key><string>Entrar</string>
+<key>LBL_HINT_TAP_TXT</key><string>Toque em qualquer lugar para aceitar.</string>
+<key>LBL_HOME_DRIVER_INTRO_DETAILS</key><string>Bem-vindo ao aplicativo Sob Demanda Passageiro para Passageiros e Motorista.</string>
+<key>LBL_HOUR_TXT</key><string>hora</string>
+<key>LBL_INFO_UPDATED_TXT</key><string>A informação é atualizada.</string>
+<key>LBL_INSUFFICIENT_FUNDS</key><string>Transação não autorizada. O cliente não possui fundos para concluir o pagamento.</string>
+<key>LBL_INVALID_REQUEST</key><string>Requisição inválida. Confira os dados preenchidos e tente novamente.</string>
+<key>LBL_INVITE_CODE_HINT</key><string>Código de indicação(opcional)</string>
+<key>LBL_INVITE_FRIEND_SHARE</key><string>Compartilhe seu código de convite</string>
+<key>LBL_INVITE_FRIEND_TXT</key><string>Convide amigos</string>
+<key>LBL_JOB_LOCATION_TXT</key><string>Local de trabalho</string>
+<key>LBL_JOB_TIMER_HINT</key><string>TEMPORIZADOR DE TRABALHO</string>
+<key>LBL_KM_DISTANCE_TXT</key><string>km</string>
+<key>LBL_LANGUAGE_TXT</key><string>Língua</string>
+<key>LBL_LAST_NAME_HEADER_TXT</key><string>Último nome</string>
+<key>LBL_LEFT_MENU_WALLET</key><string>Minha carteira</string>
+<key>LBL_LICENCE_PLATE_TXT</key><string>Placa do automóvel</string>
+<key>LBL_LOADING_TXT</key><string>Carregando</string>
+<key>LBL_LOAD_ADDRESS</key><string>Carregando endereço</string>
+<key>LBL_LOCATION_FATCH_ERROR_TXT</key><string>Esperando pela sua localização.</string>
+<key>LBL_LOCATION_SERVICES_TURNED_OFF</key><string>Serviços de localização desativados</string>
+<key>LBL_LOC_SERVICES_TURNED_OFF_DETAILS_HEAT</key><string>Ative os serviços de localização nas configurações do seu dispositivo para melhorar o mapa de calor em sua área.</string>
+<key>LBL_LOGIN</key><string>Entrar</string>
+<key>LBL_LOGOUT</key><string>Sair</string>
+<key>LBL_MAKE</key><string>Marca</string>
+<key>LBL_MALE_TXT</key><string>Masculino</string>
+<key>LBL_MANAGE</key><string>Gerar</string>
+<key>LBL_MANAGE_DOCUMENT</key><string>Gerenciar Documento</string>
+<key>LBL_MANAGE_VEHICLES</key><string>Gerenciar veículos</string>
+<key>LBL_MATERIAL_FEE</key><string>Taxa material</string>
+<key>LBL_MENU_MY_HEATVIEW</key><string>Demandas</string>
+<key>LBL_MENU_WAY_BILL</key><string>Última viagem</string>
+<key>LBL_MESSAGE_ACTIVE_TRIP</key><string>mensagem</string>
+<key>LBL_MESSAGE_TXT</key><string>mensagem</string>
+<key>LBL_MINS_SMALL</key><string>min</string>
+<key>LBL_MINUTES_TXT</key><string>minutos</string>
+<key>LBL_MIN_SMALL</key><string>min</string>
+<key>LBL_MISC_FEE</key><string>Taxa variada</string>
+<key>LBL_MISSING_TXT</key><string>Ausência de</string>
+<key>LBL_MOBILE_NUMBER_HEADER_TXT</key><string>Móvel</string>
+<key>LBL_MOBILE_VERIFy_TXT</key><string>Verificação móvel</string>
+<key>LBL_MODEL</key><string>Modelo</string>
+<key>LBL_MONEY_IN</key><string>CRÉDITOS</string>
+<key>LBL_MONEY_OUT</key><string>DÉBITO</string>
+<key>LBL_MORE_DETAILS</key><string>MAIS DETALHES</string>
+<key>LBL_MYTRIP_Trip_Date</key><string>Data da viagem</string>
+<key>LBL_MY_EARNING</key><string>Meus Ganhos</string>
+<key>LBL_MY_PROFILE_HEADER_TXT</key><string>Meu perfil</string>
+<key>LBL_NAME_TXT</key><string>Nome</string>
+<key>LBL_NAVIGATE</key><string>Navegar</string>
+<key>LBL_NAVIGATION_ALERT</key><string>opção de navegação estará disponível após o início da viagem.</string>
+<key>LBL_NAVIGATION_GOOGLE_MAP</key><string>Navegação no mapa do Google</string>
+<key>LBL_NAVIGATION_WAZE</key><string>Navegação no Waze</string>
+<key>LBL_NO</key><string>NÃO</string>
+<key>LBL_NOTES</key><string>NOTAS</string>
+<key>LBL_NOTIFY_RESTART_APP_TO_CHANGE</key><string>Para aplicar as alterações, é necessário reiniciar o aplicativo. Por favor, espere.</string>
+<key>LBL_NO_CARD_AVAIL_HEADER_NOTE</key><string>SEM CARTÃO DISPONÍVEL</string>
+<key>LBL_NO_CARD_AVAIL_NOTE</key><string>Por favor, adicione seu cartão para usar o pagamento com cartão</string>
+<key>LBL_NO_DATA_AVAIL</key><string>Nenhum dado disponível.</string>
+<key>LBL_NO_INTERNET_TXT</key><string>Por favor, verifique sua conexão à internet.</string>
+<key>LBL_NO_LOC_GPS_GENERAL</key><string>Sua localização precisa não pode ser obtida. Por favor, tente na área que tem céu aberto para o GPS funcionar precisamente.</string>
+<key>LBL_NO_THANKS</key><string>Não, obrigado</string>
+<key>LBL_NO_TRANSACTION_AVAIL</key><string>Nenhuma transação disponível</string>
+<key>LBL_OFFLINE_HEADER_TXT</key><string>Você está offline</string>
+<key>LBL_OK_THANKS</key><string>OK AGRADECIMENTOS</string>
+<key>LBL_ONLINE_HEADER_TXT</key><string>Você está online</string>
+<key>LBL_OR_TXT</key><string>OU</string>
+<key>LBL_PASSENGER_DETAIL</key><string>Detalhe do passageiro</string>
+<key>LBL_PASSENGER_NAME_TEXT</key><string>Nome do passageiro</string>
+<key>LBL_PASSENGER_TXT</key><string>Passageiro</string>
+<key>LBL_PASSWORD_LBL_TXT</key><string>Senha</string>
+<key>LBL_PASSWORD_SENT_TXT</key><string>Sua senha foi enviada com sucesso.</string>
+<key>LBL_PAST</key><string>Passado</string>
+<key>LBL_PAYMENT</key><string>Cadastre Cartão de Crédito</string>
+<key>LBL_PAYMENT_EMAIL_TXT</key><string>E-mail de pagamento</string>
+<key>LBL_PAYMENT_TYPE_TXT</key><string>TIPO DE PAGAMENTO</string>
+<key>LBL_PAY_SUMMARY</key><string>Resumo do pagamento</string>
+<key>LBL_PENDING_JOBS</key><string>Trabalhos pendentes</string>
+<key>LBL_PEOPLE_TXT</key><string>Pessoas</string>
+<key>LBL_PHONE_EMAIL</key><string>Número de telefone ou email</string>
+<key>LBL_PICKUP_LOCATION_HEADER_TXT</key><string>PEGAR A LOCALIZAÇÃO</string>
+<key>LBL_PICKUP_LOCATION_TXT</key><string>Local de retirada</string>
+<key>LBL_PICK_UP_PASSENGER</key><string>Pegar Passageiro</string>
+<key>LBL_POS</key><string>Maquininha Débito</string>
+<key>LBL_PREFRANCE_TXT</key><string>Preferência</string>
+<key>LBL_PRIVACY_POLICY</key><string>Ao conduzir você escolhe aceitar a Brazil Go</string>
+<key>LBL_PRIVACY_POLICY1</key><string>Termos e Política de Privacidade</string>
+<key>LBL_PRIVACY_POLICY_TEXT</key><string>Política de Privacidade</string>
+<key>LBL_PROFILE_BANK_HOLDER_TXT</key><string>Nome do proprietário da conta bancária</string>
+<key>LBL_PROFILE_TITLE_TXT</key><string>Meu perfil</string>
+<key>LBL_PROGRESS_HINT</key><string>PROGRESSO DE TRABALHO</string>
+<key>LBL_PROVIDER_DISCOUNT</key><string>Desconto de motorista</string>
+<key>LBL_RATE</key><string>Taxa</string>
+<key>LBL_RATING</key><string>Avaliação</string>
+<key>LBL_REACH_TXT</key><string>alcançar</string>
+<key>LBL_REASON</key><string>Razão</string>
+<key>LBL_RECEIPT_HEADER_TXT</key><string>RECIBO</string>
+<key>LBL_RECEIVE_CARD</key><string>RECEBER SOMENTE CORRIDAS CARTÃO?</string>
+<key>LBL_RECHARGE_AMOUNT_TXT</key><string>Quantidade de recarga</string>
+<key>LBL_REFERAL_SCHEME</key><string>Digite o código de referência fornecido a você. Seu amigo ganhará uma recompensa de referência assim que você pagar por qualquer serviço.</string>
+<key>LBL_REFERAL_SCHEME_TXT</key><string>O que é o código de referência / convite?</string>
+<key>LBL_REGISTRATION_SUCCESS</key><string>Registro bem sucedido</string>
+<key>LBL_REQUEST</key><string>Pedido</string>
+<key>LBL_RESEND_SMS</key><string>Reenviar SMS</string>
+<key>LBL_RES_TO_CONTACT</key><string>Razão para entrar em contato</string>
+<key>LBL_RETRY_TXT</key><string>Tentar novamente</string>
+<key>LBL_RIDE</key><string>Viagem</string>
+<key>LBL_RIDE_HISTORY</key><string>Suas viagens</string>
+<key>LBL_SEARCH_LOC</key><string>Pesquisar local</string>
+<key>LBL_SECONDS_TXT</key><string>segundos</string>
+<key>LBL_SELECT_CAR_TXT</key><string>Selecione seu veículo</string>
+<key>LBL_SELECT_DOC</key><string>Selecione Documento</string>
+<key>LBL_SELECT_DOC_ERROR</key><string>Por favor, anexe seu documento.</string>
+<key>LBL_SELECT_GENDER</key><string>Selecione seu gênero para continuar</string>
+<key>LBL_SELECT_MAKE</key><string>Selecionar Marca</string>
+<key>LBL_SELECT_MODEL</key><string>Selecionar Modelo</string>
+<key>LBL_SELECT_YEAR</key><string>Selecionar Ano</string>
+<key>LBL_SEND_ALERT_EME_CONTACT</key><string>Envie uma mensagem para seus contatos de emergência.</string>
+<key>LBL_SEND_QUERY_BTN_TXT</key><string>Enviar consulta</string>
+<key>LBL_SERVICE_DESCRIPTION</key><string>Descrição do Serviço</string>
+<key>LBL_SESSION_TIME_OUT</key><string>Sua sessão expirou. Por favor faça login novamente.</string>
+<key>LBL_SETTINGS</key><string>Definições</string>
+<key>LBL_SHARE_USING</key><string>Compartilhar usando</string>
+<key>LBL_SIGNOUT_TXT</key><string>Sair</string>
+<key>LBL_SIGN_IN_MOBILE_EMAIL_HELPER</key><string>Digite o número do celular sem levar + ou 00 ou código do país</string>
+<key>LBL_SIGN_IN_TXT</key><string>ENTRAR</string>
+<key>LBL_SIGN_IN_WITH_SOC_ACC</key><string>LOG IN COM CONTA SOCIAL</string>
+<key>LBL_SIGN_UP</key><string>CADASTRO</string>
+<key>LBL_SIGN_UP_WITH_SOC_ACC</key><string>CADASTRO COM CONTA SOCIAL</string>
+<key>LBL_SKIP_TXT</key><string>PULAR</string>
+<key>LBL_SLIDE_END_DELIVERY</key><string>Deslize para terminar a entrega</string>
+<key>LBL_SMS_SENT_NOTE</key><string>Enviamos o código para o seu número de celular. Por favor, insira-o abaixo para verificar.</string>
+<key>LBL_SMS_SENT_TO</key><string>SMS enviado para:</string>
+<key>LBL_SPECIAL_INSTRUCTION_TXT</key><string>Instrução especial</string>
+<key>LBL_START_TRIP</key><string>Começar a viagem</string>
+<key>LBL_STATE_TXT</key><string>Estado</string>
+<key>LBL_SUCCESS_FINISHED</key><string>Viagem completa</string>
+<key>LBL_SUCCESS_TRIP_CANCELED</key><string>Sua viagem foi cancelada com sucesso.</string>
+<key>LBL_SUPPORT_HEADER_TXT</key><string>Apoio, suporte</string>
+<key>LBL_TAXID_TXT</key><string>CPF</string>
+<key>LBL_TAXI_HAIL</key><string>Abertura de Corrida</string>
+<key>LBL_TERMS_AND_CONDITION</key><string>termos e Condições</string>
+<key>LBL_TERMS_CONDITION_PREFIX</key><string>eu concordo com o</string>
+<key>LBL_TERMS_PRIVACY</key><string>Termos e Condições e Política de Privacidade</string>
+<key>LBL_THANKS_RIDING_DRIVER</key><string>Obrigado por fornecer viagem.</string>
+<key>LBL_TIME_TXT</key><string>Tempo</string>
+<key>LBL_TIP_AMOUNT</key><string>Quantidade de gorjeta</string>
+<key>LBL_TIP_AMOUNT_ENTER_TITLE</key><string>Insira o valor da dica</string>
+<key>LBL_TIP_INFO_SHOW_DRIVER</key><string>Parabéns! Você recebeu uma gorjeta do passageiro para esta viagem.</string>
+<key>LBL_TIP_TITLE_TXT</key><string>GORJETA</string>
+<key>LBL_TIP_TXT</key><string>A viagem foi concluída com sucesso. Gostaria de ditar o driver?</string>
+<key>LBL_To</key><string>Para</string>
+<key>LBL_TOLL_SKIP_HELP</key><string>Passageiro selecionado para pular a rota de pedágio. Por favor, ignore a rota pedagiada.</string>
+<key>LBL_Total_Fare</key><string>Tarifa total</string>
+<key>LBL_TOTAL_SERVICES</key><string>Total Services</string>
+<key>LBL_Transaction_HISTORY</key><string>Suas transações</string>
+<key>LBL_TRANSACTION_REFUSED</key><string>Transação não autorizada. Tente novamente ou entre em contato com a operador do cartão.</string>
+<key>LBL_TRIP_DATE_TXT</key><string>Data da viagem</string>
+<key>LBL_TRIP_FINISHED_TXT</key><string>A viagem atual foi concluída com sucesso. Visite novamente.</string>
+<key>LBL_TRIP_REQUEST_DATE_TXT</key><string>DATA DO PEDIDO DE VIAGEM</string>
+<key>LBL_TRIP_TXT</key><string>Viagem</string>
+<key>LBL_TRIP_USER_WAITING</key><string>Passageiro está esperando por você</string>
+<key>LBL_TRY_AGAIN_TXT</key><string>Não é possível se comunicar com o servidor. Por favor, verifique sua conexão com a internet ou tente novamente mais tarde</string>
+<key>LBL_TURN_ON_LOC_SERVICE</key><string>ATIVAÇÃO DE SERVIÇOS DE LOCALIZAÇÃO</string>
+<key>LBL_UPCOMING</key><string>próximos</string>
+<key>LBL_UPCOMING_JOBS</key><string>Próximos trabalhos</string>
+<key>LBL_UPDATE</key><string>Atualizar</string>
+<key>LBL_UPDATE_CONFIRM_PASSWORD_HEADER_TXT</key><string>DIGITE NOVAMENTE A SENHA</string>
+<key>LBL_UPDATE_CONFIRM_PASSWORD_HINT_TXT</key><string>Digite a nova senha novamente</string>
+<key>LBL_UPDATE_PASSWORD_HEADER_TXT</key><string>Nova senha</string>
+<key>LBL_UPDATE_PASSWORD_HINT_TXT</key><string>Insira a nova senha</string>
+<key>LBL_UPLOADDOC_SUCCESS</key><string>Documentos carregados com sucesso</string>
+<key>LBL_UPLOAD_DOC</key><string>Carregar documento</string>
+<key>LBL_UPLOAD_DOC_SUCCESS</key><string>Seu documento foi enviado com sucesso.</string>
+<key>LBL_UPLOAD_YOUR_DOCS</key><string>Envie seus documentos</string>
+<key>LBL_UPLOAD_YOUR_DOCS_NOTE</key><string>Precisamos verificar seus documentos para ativar sua conta.</string>
+<key>LBL_USER_BALANCE</key><string>Seu balanço</string>
+<key>LBL_USER_ON_ANOTHER_TRIP</key><string>Desculpe, o passageiro está em outra viagem.</string>
+<key>LBL_VEHICLE_ADD_SUCCESS</key><string>Veículo adicionado com sucesso</string>
+<key>LBL_VEHICLE_ADD_SUCCESS_NOTE</key><string>Veículo adicionado com sucesso. Você precisa fazer o upload do documento do veículo para verificação de administrador. Após a aprovação do administrador, você pode selecionar o seu veículo para estar online.</string>
+<key>LBL_VEHICLE_TYPE_SMALL_TXT</key><string>Tipo de Veículo</string>
+<key>LBL_VIA_TXT</key><string>através da</string>
+<key>LBL_VIA_WALLET</key><string>Carteira</string>
+<key>LBL_VIA_WALLET_CASH</key><string>Carteira+Dinheiro</string>
+<key>LBL_VIEW_PASSENGER_DETAIL</key><string>Visualizar detalhe do passageiro</string>
+<key>LBL_VIEW_TRANS_HISTORY</key><string>Visualizar transações</string>
+<key>LBL_WAIT_ADMIN_APPROVE</key><string>Aguardando a aprovação da Brazil GO</string>
+<key>LBL_WAIT_ADMIN_APPROVE_NOTE</key><string>Nós verificaremos suas informações fornecidas e entraremos em contato com você em breve.</string>
+<key>LBL_WALLET_AMT_ADJUSTED</key><string>Valor da carteira ajustado</string>
+<key>LBL_WALLET_BALANCE</key><string>Saldo da carteira</string>
+<key>LBL_WANT_EXIT_APP_TXT</key><string>Você tem certeza que quer sair?</string>
+<key>LBL_WANT_LOGOUT_APP_TXT</key><string>Tem certeza que deseja sair?</string>
+<key>LBL_WITHDRAW_MONEY_TXT</key><string>Sacar dinheiro</string>
+<key>LBL_WRITE_COMMENT_HINT_TXT</key><string>Forneça seu feedback.</string>
+<key>LBL_WRONG_DETAIL</key><string>Você inseriu detalhes incorretos da conta.</string>
+<key>LBL_YEAR</key><string>Ano</string>
+<key>LBL_YES</key><string>SIM</string>
+<key>LBL_YOUR_JOB_LOCATION_TXT</key><string>Seu local de trabalho</string>
+<key>LBL_YOUR_QUERY</key><string>Sua pergunta</string>
+<key>LBL_YOUR_TRIPS</key><string>Suas viagens</string>
+<key>LBL_ZIP_CODE_SIGNUP</key><string>Código postal</string>

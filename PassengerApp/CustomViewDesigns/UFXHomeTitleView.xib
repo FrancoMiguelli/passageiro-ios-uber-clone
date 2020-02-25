@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13174"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Location for avail services" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gQZ-DL-Bpe" customClass="MyLabel" customModule="V3CLaundryUser" customModuleProvider="target">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="19.5"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="19" id="7NI-5I-6IT"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="isAppThemeTextFont" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter Location " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0zb-r5-Glc" customClass="MyLabel" customModule="V3CLaundryUser" customModuleProvider="target">
+                    <rect key="frame" x="0.0" y="19.5" width="127.5" height="22.5"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="19"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="isAppThemeTextFont" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </label>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_arrow_right" translatesAutoresizingMaskIntoConstraints="NO" id="oEa-Pb-p96">
+                    <rect key="frame" x="129.5" y="18.5" width="25" height="25"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="25" id="nGx-hV-pfT"/>
+                        <constraint firstAttribute="height" constant="25" id="zqB-wa-2I2"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="0zb-r5-Glc" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="ICi-7X-5mM"/>
+                <constraint firstItem="gQZ-DL-Bpe" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="LPe-ld-vH4"/>
+                <constraint firstItem="oEa-Pb-p96" firstAttribute="centerY" secondItem="0zb-r5-Glc" secondAttribute="centerY" id="RsC-VC-ol4"/>
+                <constraint firstAttribute="trailing" secondItem="gQZ-DL-Bpe" secondAttribute="trailing" id="U2U-85-pdZ"/>
+                <constraint firstAttribute="bottom" secondItem="0zb-r5-Glc" secondAttribute="bottom" constant="2" id="UDD-8A-lgM"/>
+                <constraint firstItem="gQZ-DL-Bpe" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="Vcy-55-5GH"/>
+                <constraint firstItem="oEa-Pb-p96" firstAttribute="leading" secondItem="0zb-r5-Glc" secondAttribute="trailing" constant="2" id="nFg-iU-sIq"/>
+                <constraint firstItem="0zb-r5-Glc" firstAttribute="top" secondItem="gQZ-DL-Bpe" secondAttribute="bottom" id="sM1-Xs-0db"/>
+                <constraint firstItem="0zb-r5-Glc" firstAttribute="width" relation="lessThanOrEqual" secondItem="iN0-l3-epB" secondAttribute="width" constant="-30" id="xgK-Gj-bbi"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="25.5" y="52"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ic_arrow_right" width="50" height="50"/>
+    </resources>
+</document>
